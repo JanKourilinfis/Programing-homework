@@ -7,15 +7,19 @@ body{
 
 ol{
     list-style-position: inside;
+    font-family: fantasy;
 }
 h1{
     margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-div{
-
+/*div{
 margin: auto;
 width: 50%;
 padding: 100px;
     outline:300px solid black;
-        outline-offset: 250px;
+    outline-offset: 250px;
+}*/
+html{
+    border: 100px solid black;
 }
