@@ -2,6 +2,7 @@ body{
     text-align: center;
     margin: 200px;
     border: 90px black dotted;
+
     
 }
 
@@ -13,13 +14,16 @@ h1{
     margin: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-/*div{
+div{
 margin: auto;
-width: 50%;
+margin-bottom: 27%;
+width: 30%;
+/*padding-bottom: %;*/
 padding: 100px;
     outline:300px solid black;
-    outline-offset: 250px;
-}*/
-html{
-    border: 100px solid black;
+    outline-offset: 400px;
+    
 }
+/*html{
+    border: 200px solid black;
+}*/
